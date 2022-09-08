@@ -1,0 +1,16 @@
+.container .text {
+    background-color: blueviolet;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+
+/*You can also use other descendant combinators like:
+
+div p  (both elements)
+div .text (element and class name)
+.container p (class name and element )
+
+(I use both class names for this.)
+
+*/
