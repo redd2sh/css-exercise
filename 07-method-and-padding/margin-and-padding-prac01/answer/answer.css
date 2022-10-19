@@ -4,22 +4,22 @@ body {
 }
 
 .one {
-    background: pink;
-    border:3px solid blue;
-    padding:0px;
-    margin: 0px;
+    background: lightgreen;
+    border:3px solid darkgreen;
+    padding:32px;
+    margin: 12px;
 }
 
 .two {
-    background: lightblue;
+    background: plum;  
     border: 3px solid purple;
-    margin-bottom: 0px;
+    margin-bottom: 48px;
 }
 
 .three {
-    background: peachpuff;
-    border: 3px solid brown;
+    background: lightcyan;
+    border: 3px solid seagreen;
     width: 200px;
-    padding:0px;
-    margin-left: 0px;
+    padding:32px;
+    margin-left: auto;    
 }
