@@ -1,0 +1,28 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    color: fuchsia;
+    
+
+
+}
+
+.header {
+    background-color: bisque;
+    align-content: center;
+}
+
+.logo {
+    font-weight: bolder;
+    font-style: italic;
+    font-size: 60px;
+}
+
+button {
+    background-color: blueviolet;
+    color: white;
+
+}
+
+.profile-image {
+    background-color: aqua;
+}
