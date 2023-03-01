@@ -1,0 +1,43 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    color: fuchsia;
+    margin: 0;
+ }
+
+.header {
+    background-color: bisque;
+    border-bottom: 1px solid #ddd;
+}
+
+.logo  {
+    font-style: italic;
+    font-size: 60px;
+    font-weight: bolder;
+}
+
+
+button {
+    background-color: blueviolet;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 8px 24px;
+
+}
+
+.profile-image {
+    background-color: aqua;
+    box-shadow: inset 2px 2px 4px rgba(0, 0, 0, 5);
+    border-radius: 50%;
+    width: 48px;
+    height: 48px;
+}
+
+a {
+    text-decoration: none;
+    color: blueviolet;
+}
+
+ul {
+    list-style-type: none;
+}
